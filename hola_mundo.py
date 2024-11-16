@@ -1,4 +1,4 @@
-a = 2
+a = 22
 print(a)
 b = 3
 print(b)
